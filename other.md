@@ -1,0 +1,22 @@
+## 内部已知漏洞 hash 声明
+
+### File 1 :
+* md5 6a62dbf59dacf12111597c333081729a
+* sha1 f023453f8498a482bf5f114513aa5b7335ea9dc1
+
+### File 2 :
+* md5 42a6c678c07255aa8140135499f6acb2
+* sha1 dd2c23a3ab722b206b057e12cdc85fb45a1e87b0
+
+### File 3 :
+* md5 53429e4b413242512c46d7e467f3a0e4
+* sha1 366c325ba04acb482ee83b8a9f18d7add0732a83
+
+### File 4 :
+* md5 d1bbd71ffb0a65ab8fd47bcd84a0447d
+* sha1 0b7a7bbd6fae39e890d92ab925d413e41d8f56b3
+
+### File 5 ：
+* md5 dac15c4ee2ffecd6f3df4f8b2473590a
+* sha1 a83676968a10944925f7dd7db573644fcdb61185
+
