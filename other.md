@@ -27,3 +27,7 @@
 ### File 7 :
 * md5 8f68c7d71144db61fdf450fca47a04ed
 * sha1 777bda3843c64e623baedf98310579f223ce6e07
+
+### File 8 :
+* md5 cccee3103a109dc82baa5da1c43cff30
+* sha1 d54c853a75efcb03e0e84ed0a800aabfb444f708
